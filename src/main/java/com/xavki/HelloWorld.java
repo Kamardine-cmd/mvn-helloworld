@@ -6,6 +6,6 @@ public class HelloWorld {
     System.out.println(said);
     }
   public String sayHelloTo(String to) {
-    return "Hollaa "+to+"!";
+    return "Holla le monde "+to+"!";
     }
 }
